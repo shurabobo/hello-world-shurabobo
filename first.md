@@ -208,12 +208,12 @@ A <- edit(A)
 fix(A)
 ```
 
-# G. EXERCISE: Create a 2 x 2 matrix with proper headings using the following information ====
+# G. EXERCISE: Create a 2 x 2 matrix with proper headings using the following information
     Placebo, survived = 24
     Placebo, dead = 27
     Bigmac, survived = 3
     Bigmac, dead = 63
-## Answer: ----
+## Answer: 
 
 ## Is Bigmac consumption associated with higher mortality risk?  
 * Sure it is good
