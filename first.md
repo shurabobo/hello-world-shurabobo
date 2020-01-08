@@ -9,7 +9,7 @@ output:
       code_folding: hide
 ---
 
-# LOAD PACKAGES
+# LOAD PACKAGES (please install packages first before loading)
 
 Note: Install the "*tidyverse*" and "*psych*" if you have not already done so.
 
@@ -216,3 +216,5 @@ fix(A)
 ## Answer: ----
 
 ## Is Bigmac consumption associated with higher mortality risk?  
+* Sure it is good
+
